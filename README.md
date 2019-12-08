@@ -1,11 +1,11 @@
 # godot-fxtext
 Godot plugin for creating dynamic text effects.
 If Godot 3.2 is already released, I want to refer to this feature:
-![Pull request of Text Effects on RichTextLabels](https://github.com/godotengine/godot/pull/23658)
+[Pull request of Text Effects on RichTextLabels](https://github.com/godotengine/godot/pull/23658)
 
 ## Text engine which makes it possible to add special effects to certain words!
 As shown here: 
-![Reddit link](https://www.reddit.com/r/godot/comments/e6zmdz/learning_gdscript_decided_to_try_to_incorporate/)
+[Reddit link](https://www.reddit.com/r/godot/comments/e6zmdz/learning_gdscript_decided_to_try_to_incorporate)
 
 ## How to use?
 The script gdfxtext_base.gd is working by itself. Just add it to a Node2D and set your desired properties.
